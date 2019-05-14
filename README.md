@@ -14,8 +14,7 @@
 Please do the pre-work prior to the workshop!
 
 * Register an account on [**GitHub**](https://github.com/join?source=header-home) if you do not already have an account.
-* Register with [**Glitch.com**](https://glitch.com/)
-   - Can connect to the [Out of Office Skeleton project](https://glitch.com/edit/#!/remix/outofofficeskeleton)
+* Connect to the [Out of Office Skeleton project](https://glitch.com/edit/#!/remix/outofofficeskeleton)
 
 ### Obtain a Personal Access Token (PAT)
 * Obtain a Personal Access Token by following these steps [here](pat.md)
