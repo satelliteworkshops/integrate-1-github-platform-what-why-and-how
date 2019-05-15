@@ -9,9 +9,10 @@
 - We will create an out of office responder when assigned issues on GitHub.
 - A workshop exercise to demonstrate how GitHub webhooks work using [@octokit/webhooks](https://www.npmjs.com/package/@octokit/webhooks)and how we can make calls to GitHub using [@octokit/rest](https://www.npmjs.com/package/@octokit/rest)
 
-## Pre-Work
 
-Please do the pre-work prior to the workshop!
+## Setup
+
+* **No need to do this prior to the workshop.  We will go over each item step by step during the workshop.**
 
 * Register an account on [**GitHub**](https://github.com/join?source=header-home) if you do not already have an account.
 * Connect to the [Out of Office Skeleton project](https://glitch.com/edit/#!/remix/outofofficeskeleton)
